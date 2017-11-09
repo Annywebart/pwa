@@ -322,7 +322,7 @@
         app.selectedCities = [
             {key: initialWeatherForecast.key, label: initialWeatherForecast.label}
         ];
-        app.saveSelectedCities();
+        // app.saveSelectedCities();
     }
 
     // TODO add service worker code here
